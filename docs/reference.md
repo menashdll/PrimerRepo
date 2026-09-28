@@ -1,1 +1,1 @@
-::: sum.sum
+::: cuadrature.cuadrature
